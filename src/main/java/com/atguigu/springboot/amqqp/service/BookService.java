@@ -1,4 +1,4 @@
-package com.atguigu.springboot.amqqp.Service;
+package com.atguigu.springboot.amqqp.service;
 
 import org.springframework.amqp.core.Message;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
